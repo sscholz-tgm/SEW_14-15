@@ -1,2 +1,2 @@
-Learning to use git are:
+Hello World!
 Sebastian Scholz 3CHIT of the TGM
